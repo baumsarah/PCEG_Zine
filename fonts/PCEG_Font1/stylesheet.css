@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Evas Handwriting';
+    src: url('EvasHandwriting-Regular.eot');
+    src: url('EvasHandwriting-Regular.eot?#iefix') format('embedded-opentype'),
+        url('EvasHandwriting-Regular.woff2') format('woff2'),
+        url('EvasHandwriting-Regular.woff') format('woff'),
+        url('EvasHandwriting-Regular.ttf') format('truetype'),
+        url('EvasHandwriting-Regular.svg#EvasHandwriting-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+

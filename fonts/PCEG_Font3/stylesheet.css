@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Sarahs Font 1';
+    src: url('SarahsFont1-Regular.eot');
+    src: url('SarahsFont1-Regular.eot?#iefix') format('embedded-opentype'),
+        url('SarahsFont1-Regular.woff2') format('woff2'),
+        url('SarahsFont1-Regular.woff') format('woff'),
+        url('SarahsFont1-Regular.ttf') format('truetype'),
+        url('SarahsFont1-Regular.svg#SarahsFont1-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+

@@ -1,0 +1,86 @@
+.body {
+    padding: 5%;
+}
+
+.container-fluid, .container {
+    background-color: #f3f5f7;
+}
+
+.container {
+    padding: 15px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inner_container {
+    border: dotted white;
+}
+
+body {
+    background-image: url("./assets/images/background.png");
+}
+
+h1 {
+    color: white;
+}
+
+
+.letter {
+    text-align: left;
+    font-size: 250%;
+}
+
+#letter_1, #letter_4, #content_note, #action_steps {
+    font-family: "PCEG_Font1";
+}
+
+#preface_body, .navbar, #content_note_body, #action_steps_body {
+    font-family: "Courier";
+}
+
+#preface, #content_note, #action_steps {
+    font-size: 500%;
+}
+
+#zine {
+    font-size: 600%;
+}
+
+#letter_2, #preface {
+    font-family: "PCEG_Font2";
+}
+
+#letter_3, #zine {
+    font-family: "PCEG_Font3";
+}
+
+@font-face {
+    font-family: "PCEG_Font1";
+    src: url('./fonts/PCEG_Font1/Handwriting-Regular.eot'); /* IE9 Compat Modes */
+    src: url('./fonts/PCEG_Font1/Handwriting-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('./fonts/PCEG_Font1/Handwriting-Regular.woff') format('woff'), /* Modern Browsers */
+        url('./fonts/PCEG_Font1/Handwriting-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('./fonts/PCEG_Font1/Handwriting-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: "PCEG_Font2";
+    src: url('./fonts/PCEG_Font2/Handwriting2-Regular.eot'); /* IE9 Compat Modes */
+    src: url('./fonts/PCEG_Font2/Handwriting2-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('./fonts/PCEG_Font2/Handwriting2-Regular.woff') format('woff'), /* Modern Browsers */
+        url('./fonts/PCEG_Font2/Handwriting2-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('./fonts/PCEG_Font2/Handwriting2-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: "PCEG_Font3";
+    src: url('./fonts/PCEG_Font3/Font1-Regular.eot'); /* IE9 Compat Modes */
+    src: url('./fonts/PCEG_Font3/Font1-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('./fonts/PCEG_Font3/Font1-Regular.woff') format('woff'), /* Modern Browsers */
+        url('./fonts/PCEG_Font3/Font1-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('./fonts/PCEG_Font3/Font1-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
