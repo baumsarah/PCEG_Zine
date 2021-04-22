@@ -38,11 +38,11 @@ h1 {
     font-family: "PCEG_Font1";
 }
 
-#preface_body, .navbar, #content_note_body, #action_steps_body {
+#preface_body, .navbar, #content_note_body, #action_steps_body, #acknowledgements_body {
     font-family: "Courier";
 }
 
-#preface, #content_note, #action_steps {
+#preface, #content_note, #action_steps, #acknowledgements {
     font-size: 500%;
 }
 
@@ -54,7 +54,7 @@ h1 {
     font-family: "PCEG_Font2";
 }
 
-#letter_3, #zine {
+#letter_3, #zine, #acknowledgements {
     font-family: "PCEG_Font3";
 }
 
